@@ -1,0 +1,13 @@
+/* body{
+  background: lightskyblue !important;
+} */
+.fondoAzul{
+  border: lightblue !important;
+}
+.fondoVerde{
+  background: lightgreen !important;
+}
+.activado{
+  font-weight: bold;
+  background: yellow;
+}

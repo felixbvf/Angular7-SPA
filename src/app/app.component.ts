@@ -6,5 +6,5 @@ import { Component } from '@angular/core';
   styleUrls: ['./app.component.css']
 })
 export class AppComponent {
-  title = 'aexample1';
+  title = 'Welcome to Angular 7 - 2019';
 }
